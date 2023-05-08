@@ -32,6 +32,13 @@
 ### Production mode for the admin section
 `npm run admin-production`
 
+## Run Project 
+- run : `php artisan serve`
+- site  url :  http://127.0.0.1:8000/
+- admin url  : http://127.0.0.1:8000/admin
+
+
+
 ###### Reference 
 - https://stackoverflow.com/questions/62982989/how-to-mix-multiple-entry-points-and-watch-at-same-time-for-laravel-mix
 - https://stackoverflow.com/questions/45046696/laravel-mix-multiple-entry-points-generates-one-manifest-js
